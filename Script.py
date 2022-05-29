@@ -8,8 +8,7 @@ class script(object):
 ✯ 𝕎𝔼 ℍ𝔸𝕍𝔼 𝕆ℕ𝔼 𝕆𝔽 𝕋ℍ𝔼 𝔾ℝ𝔼𝔸𝕋𝔼𝕊𝕋 ℙ𝕆ℝℕ ℂ𝕆𝕃𝕃𝔼ℂ𝕋𝕀𝕆ℕ 𝔸ℕ𝔻 𝕎𝔼 𝕀ℕ𝕋𝔼ℕ𝔻 𝕋𝕆 𝕊ℍ𝔸ℝ𝔼 𝕀𝕋 𝕎𝕀𝕋ℍ 𝕐𝕆𝕌
 ✯ 𝕃𝕆𝕍𝔼 𝔽ℝ𝕆𝕄 ℍ𝕆ℙ𝔼𝕃𝔼𝕊𝕊™"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+- Eva Maria
 
 <b>DEVS:</b>
 - <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""

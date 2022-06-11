@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/blutron/EvaMaria",
-    "repository": "https://github.com/blutron/EvaMaria",
+    "website": "https://github.com/blutron/eva",
+    "repository": "https://github.com/blutron/eva",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",

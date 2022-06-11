@@ -75,7 +75,7 @@ python3 bot.py
 </p>
 </details>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/blutron/EvaMaria)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/blutron/eva)
 
 
 ## Commands
